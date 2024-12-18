@@ -1,0 +1,589 @@
+Testing with 100 examples:
+
+Example 1:
+Original: Jordan Riley/Adam Argyle/Martin Brammer
+Detected: Jordan Riley/Adam Argyle/Martin Brammer
+Ground Truth: Jordan Riley/Adam Argyle/Martin Brammer
+
+Example 2:
+Original: Martin Hygård
+Detected: Martin Hygård
+Ground Truth: Martin Hygård
+
+Example 3:
+Original: Jesse Robinson/Greg Phillips/Kishaun Bailey/Kai Asa Savon Wright
+Detected: Jesse Robinson/Greg Phillips/Kishaun Bailey/Kai Asa Savon Wright
+Ground Truth: Jesse Robinson/Greg Phillips/Kishaun Bailey/Kai Asa Savon Wright
+
+Example 4:
+Original: Mendel Brikman
+Detected: Mendel Brikman
+Ground Truth: nan
+
+Example 5:
+Original: Alvin Lee
+Detected: Alvin Lee
+Ground Truth: Alvin Lee
+
+Example 6:
+Original: Haddag Samir/MusicAlligator
+Detected: Haddag Samir
+Ground Truth: Haddag Samir
+
+Example 7:
+Original: Mefi Morales
+Detected: Mefi Morales
+Ground Truth: Mefi Morales
+
+Example 8:
+Original: Christopher Franke
+Detected: Christopher Franke
+Ground Truth: Christopher Franke
+
+Example 9:
+Original: UNKNOWN WRITER (999990)
+Detected: nan
+Ground Truth: nan
+
+Example 10:
+Original: Shashank Katkar
+Detected: Shashank Katkar
+Ground Truth: Shashank Katkar
+
+Example 11:
+Original: L. Chandler/John Hammond
+Detected: L. Chandler/John Hammond
+Ground Truth: L. Chandler/John Hammond
+
+Example 12:
+Original: Itsjaygocrazy/Jordan Ancrum
+Detected: Jordan Ancrum
+Ground Truth: Itsjaygocrazy/Jordan Ancrum
+
+Example 13:
+Original: Ferhan C/Aaron Tyler/Blue Stamp Music
+Detected: Aaron Tyler
+Ground Truth: Ferhan C/Aaron Tyler
+
+Example 14:
+Original: Mike Kalambay
+Detected: Mike Kalambay
+Ground Truth: Mike Kalambay
+
+Example 15:
+Original: Rikard Sjöblom
+Detected: Rikard Sjöblom
+Ground Truth: Rikard Sjöblom
+
+Example 16:
+Original: Junior Francisco
+Detected: Junior Francisco
+Ground Truth: Junior Francisco
+
+Example 17:
+Original: PHUC TRUONG
+Detected: Phuc Truong
+Ground Truth: PHUC TRUONG
+
+Example 18:
+Original: Slatt Zy
+Detected: Slatt Zy
+Ground Truth: Slatt Zy
+
+Example 19:
+Original: Bằng Giang/Tú Nhi
+Detected: nan
+Ground Truth: Bằng Giang/Tú Nhi
+
+Example 20:
+Original: Paul Hardcastle/Kim Fuller
+Detected: Paul Hardcastle/Kim Fuller
+Ground Truth: Paul Hardcastle/Kim Fuller
+
+Example 21:
+Original: Ivan Torrent
+Detected: Ivan Torrent
+Ground Truth: Ivan Torrent
+
+Example 22:
+Original: An Stepper
+Detected: nan
+Ground Truth: An Stepper
+
+Example 23:
+Original: NS (PERF BY KALI)
+Detected: nan
+Ground Truth: NS (PERF BY KALI)
+
+Example 24:
+Original: José Afonso/Luís de Andrade
+Detected: José Afonso/Luís de Andrade
+Ground Truth: José Afonso/Luís de Andrade
+
+Example 25:
+Original: Lavel Jackson & Demarcus Ford
+Detected: Lavel Jackson
+Ground Truth: Lavel Jackson/Demarcus Ford
+
+Example 26:
+Original: fo man
+Detected: nan
+Ground Truth: nan
+
+Example 27:
+Original: Wilhelm Hellweg/Ludwig van Beethoven
+Detected: Wilhelm Hellweg/Ludwig van Beethoven
+Ground Truth: Wilhelm Hellweg/Ludwig van Beethoven
+
+Example 28:
+Original: Traditional
+Detected: nan
+Ground Truth: nan
+
+Example 29:
+Original: #unknown#
+Detected: nan
+Ground Truth: nan
+
+Example 30:
+Original: Christian Michelle Felix Felix
+Detected: Christian Michelle Felix Felix
+Ground Truth: Christian Michelle Felix Felix
+
+Example 31:
+Original: Eric Andersen
+Detected: Eric Andersen
+Ground Truth: Eric Andersen
+
+Example 32:
+Original: Efrem Jamaar Blackwell
+Detected: Efrem Jamaar Blackwell
+Ground Truth: Efrem Jamaar Blackwell
+
+Example 33:
+Original: ZAIKS/Mariusz Duda/District 6 Music Publishing Ltd
+Detected: Mariusz Duda
+Ground Truth: Mariusz Duda
+
+Example 34:
+Original: Ludwig van Beethoven
+Detected: Ludwig van Beethoven
+Ground Truth: Ludwig van Beethoven
+
+Example 35:
+Original: Nguyễn Nhất Huy
+Detected: Nguyễn Nhất Huy
+Ground Truth: Nguyễn Nhất Huy
+
+Example 36:
+Original: Hayden Buck Jones
+Detected: Hayden Buck Jones
+Ground Truth: Hayden Buck Jones
+
+Example 37:
+Original: Alexey Abrosimov
+Detected: Alexey Abrosimov
+Ground Truth: Alexey Abrosimov
+
+Example 38:
+Original: Bhai Gurbachan Singh Ji Sri Ganganagar Wale
+Detected: Bhai Gurbachan Singh Ji Sri Ganganagar Wale
+Ground Truth: Bhai Gurbachan Singh Ji Sri Ganganagar Wale
+
+Example 39:
+Original: Rundown Spaz,Rundown Choppaboy
+Detected: nan
+Ground Truth: Rundown Spaz/Rundown Choppaboy
+
+Example 40:
+Original: Michael Hansen/James Lewis/Felix Rutherford/Robbie Jay
+Detected: Michael Hansen/James Lewis/Felix Rutherford/Robbie Jay
+Ground Truth: Michael Hansen/James Lewis/Felix Rutherford/Robbie Jay
+
+Example 41:
+Original: Antonio Short & Alexander Thai
+Detected: Antonio Short/Alexander Thai
+Ground Truth: Antonio Short/Alexander Thai
+
+Example 42:
+Original: Patra Nicolas/Colombier Emmanuel/Bausson Matthieu/LeFloch Fabien
+Detected: Patra Nicolas/Colombier Emmanuel/Bausson Matthieu/LeFloch Fabien
+Ground Truth: Patra Nicolas/Colombier Emmanuel/Bausson Matthieu/LeFloch Fabien
+
+Example 43:
+Original: O.Nesterov
+Detected: O.Nesterov
+Ground Truth: O.Nesterov
+
+Example 44:
+Original: Mozzy
+Detected: Mozzy
+Ground Truth: Mozzy
+
+Example 45:
+Original: DJ PALEMBANG/Copyright Control
+Detected: nan
+Ground Truth: DJ PALEMBANG
+
+Example 46:
+Original: Angel Graciano
+Detected: Angel Graciano
+Ground Truth: Angel Graciano
+
+Example 47:
+Original: AARON D SPRINKLE
+Detected: Aaron D Sprinkle
+Ground Truth: nan
+
+Example 48:
+Original: Danny Kortchmar
+Detected: Danny Kortchmar
+Ground Truth: Danny Kortchmar
+
+Example 49:
+Original: Johann Sebastian Bach
+Detected: Johann Sebastian Bach
+Ground Truth: Johann Sebastian Bach
+
+Example 50:
+Original: Dev Kohli/Anu Malik
+Detected: Dev Kohli/Anu Malik
+Ground Truth: Dev Kohli/Anu Malik
+
+Example 51:
+Original: Donovan Edjuan Jarrett
+Detected: Donovan Edjuan Jarrett
+Ground Truth: Donovan Edjuan Jarrett
+
+Example 52:
+Original: Copyright Control/Paulo Jorge Moreno
+Detected: Paulo Jorge Moreno
+Ground Truth: Paulo Jorge Moreno
+
+Example 53:
+Original: Day & Murray (Bowles, Gaudet, Middleton & Shanahan)
+Detected: Murray (Bowles/Gaudet/Shanahan)
+Ground Truth: Day/Murray/Bowles/Gaudet/Middleton/Shanahan
+
+Example 54:
+Original: Horace Watt
+Detected: Horace Watt
+Ground Truth: Horace Watt
+
+Example 55:
+Original: Ivan Konstantinovich Shabashov/Dmitry Aleksandrovich Lystsov
+Detected: Ivan Konstantinovich Shabashov/Dmitry Aleksandrovich Lystsov
+Ground Truth: Ivan Konstantinovich Shabashov/Dmitry Aleksandrovich Lystsov
+
+Example 56:
+Original: Joseph Haydn
+Detected: Joseph Haydn
+Ground Truth: Joseph Haydn
+
+Example 57:
+Original: BOOSEY & HAWKES
+Detected: Boosey/Hawkes
+Ground Truth: BOOSEY/HAWKES
+
+Example 58:
+Original: Willie Taylor
+Detected: Willie Taylor
+Ground Truth: Willie Taylor
+
+Example 59:
+Original: Khúc Lan
+Detected: nan
+Ground Truth: Khúc Lan
+
+Example 60:
+Original: Dhibu Ninan Thomas
+Detected: Dhibu Ninan Thomas
+Ground Truth: Dhibu Ninan Thomas
+
+Example 61:
+Original: Lil Durk
+Detected: Lil Durk
+Ground Truth: Lil Durk
+
+Example 62:
+Original: Debbie Moore,Bill Anderson,Skip Ewing
+Detected: Debbie Moore/Bill Anderson/Skip Ewing
+Ground Truth: Debbie Moore/Bill Anderson/Skip Ewing
+
+Example 63:
+Original: Tomaso Albinoni
+Detected: Tomaso Albinoni
+Ground Truth: Tomaso Albinoni
+
+Example 64:
+Original: Adam Pék/Cory James/Various Artists/Copyright Control (PRS)/Nick Sinna
+Detected: Adam Pék/Cory James/Nick Sinna
+Ground Truth: Various Artists/Nick Sinna
+
+Example 65:
+Original: Mehdi Benjelloun & Sonia Ben Ammar
+Detected: Mehdi Benjelloun/Sonia Ben Ammar
+Ground Truth: Mehdi Benjelloun/Sonia Ben Ammar
+
+Example 66:
+Original: Akshay Roy
+Detected: Akshay Roy
+Ground Truth: Akshay Roy
+
+Example 67:
+Original: Aleksandr Alekseevich Osipov
+Detected: Aleksandr Alekseevich Osipov
+Ground Truth: nan
+
+Example 68:
+Original: Sam Geiser
+Detected: Sam Geiser
+Ground Truth: Sam Geiser
+
+Example 69:
+Original: SUBZEROSWIZ,Yeat
+Detected: nan
+Ground Truth: SUBZEROSWIZ/Yeat
+
+Example 70:
+Original: 渡辺徹/森月キャス
+Detected: nan
+Ground Truth: nan
+
+Example 71:
+Original: Ray Davies
+Detected: Ray Davies
+Ground Truth: Ray Davies
+
+Example 72:
+Original: Yuvanshankar Raja & Ramajogayya Sastry
+Detected: Yuvanshankar Raja/Ramajogayya Sastry
+Ground Truth: Yuvanshankar Raja/Ramajogayya Sastry
+
+Example 73:
+Original: Auditory Music
+Detected: nan
+Ground Truth: Auditory Music
+
+Example 74:
+Original: AHN TAI/FRICK SVEEN LOUISE/MINATOZAKI SANA
+Detected: Frick Sveen Louise/Minatozaki Sana
+Ground Truth: AHN/TAI/FRICK/SVEEN/LOUISE/MINATOZAKI/SANA
+
+Example 75:
+Original: J.P Chaluleau/Gerard Bavoux/J.P Virgil
+Detected: J.P Chaluleau/Gerard Bavoux/J.P Virgil
+Ground Truth: J.P Chaluleau/Gerard Bavoux/J.P Virgil
+
+Example 76:
+Original: <Unknown>/Wright, Justyce Kaseem
+Detected: Wright/Justyce Kaseem
+Ground Truth: Wright/Justyce Kaseem
+
+Example 77:
+Original: 高瀬愛虹/Devin Kinoshita
+Detected: Devin Kinoshita
+Ground Truth: nan
+
+Example 78:
+Original: Sameer/Nadeem-Shravan
+Detected: Sameer/Nadeem-Shravan
+Ground Truth: Nadeem-Shravan
+
+Example 79:
+Original: Zeke N Moon
+Detected: Zeke N Moon
+Ground Truth: Zeke N Moon
+
+Example 80:
+Original: GO TO THE BEDS/Kenta Matsukuma
+Detected: Kenta Matsukuma
+Ground Truth: GO TO THE BEDS/Kenta Matsukuma
+
+Example 81:
+Original: Johnny Ainschough/Alexandre Allix/Samuel Alalade
+Detected: Johnny Ainschough/Alexandre Allix/Samuel Alalade
+Ground Truth: Johnny Ainschough/Alexandre Allix/Samuel Alalade
+
+Example 82:
+Original: Dorian Guerra
+Detected: Dorian Guerra
+Ground Truth: Dorian Guerra
+
+Example 83:
+Original: BMI
+Detected: Bmi
+Ground Truth: nan
+
+Example 84:
+Original: Leandro Baron Utria
+Detected: Leandro Baron Utria
+Ground Truth: Leandro Baron Utria
+
+Example 85:
+Original: Pete Townshend
+Detected: Pete Townshend
+Ground Truth: Pete Townshend
+
+Example 86:
+Original: King Von,Tee Grizzley,Chopsquad DJ,DJ Bandz
+Detected: King Von/Tee Grizzley/DJ Bandz
+Ground Truth: King Von/Tee Grizzley/Chopsquad DJ/DJ Bandz
+
+Example 87:
+Original: John Lennon/Paul McCartney
+Detected: John Lennon/Paul McCartney
+Ground Truth: John Lennon/Paul McCartney
+
+Example 88:
+Original: Aaron Taylor/Charles Robinson
+Detected: Aaron Taylor/Charles Robinson
+Ground Truth: Aaron Taylor/Charles Robinson
+
+Example 89:
+Original: Raymon Marines, Jesus Raul Ortega Jr & Albert Marines
+Detected: Jesus Raul Ortega Jr
+Ground Truth: nan
+
+Example 90:
+Original: Benjamin Timothy Duncan & Nathanael Paul Duncan
+Detected: Benjamin Timothy Duncan/Nathanael Paul Duncan
+Ground Truth: Benjamin Timothy Duncan/Nathanael Paul Duncan
+
+Example 91:
+Original: Jeff Moise Right
+Detected: Jeff Moise Right
+Ground Truth: nan
+
+Example 92:
+Original: Pablo Milanés
+Detected: Pablo Milanés
+Ground Truth: Pablo Milanés
+
+Example 93:
+Original: Tiê/Rita Wainer/André Whoong/Adriano Cintra/Giuseppe Anastasi/Érico Theobaldo
+Detected: Rita Wainer/André Whoong/Adriano Cintra/Giuseppe Anastasi/Érico Theobaldo
+Ground Truth: Tiê/Rita Wainer/André Whoong/Adriano Cintra/Giuseppe Anastasi/Érico Theobaldo
+
+Example 94:
+Original: Helena Hauff
+Detected: Helena Hauff
+Ground Truth: Helena Hauff
+
+Example 95:
+Original: Akhenaton/A Day A Dream
+Detected: Akhenaton
+Ground Truth: Akhenaton
+
+Example 96:
+Original: Bryan Wells/Ron Miller
+Detected: Bryan Wells/Ron Miller
+Ground Truth: Bryan Wells/Ron Miller
+
+Example 97:
+Original: Max Cameron Concors
+Detected: Max Cameron Concors
+Ground Truth: Max Cameron Concors
+
+Example 98:
+Original: Christopher Walter Mackenzie/John Andrew Poirier/William Leslie Farrant/Anand Vimal Greenwell/Neil James Cooke-Dallin/Robert Piers Henwood/Michelle Leus
+Detected: Christopher Walter Mackenzie/John Andrew Poirier/William Leslie Farrant/Anand Vimal Greenwell/Neil James Cooke-Dallin/Robert Piers Henwood/Michelle Leus
+Ground Truth: Christopher Walter Mackenzie/John Andrew Poirier/William Leslie Farrant/Anand Vimal Greenwell/Neil James Cooke-Dallin/Robert Piers Henwood/Michelle Leus
+
+Example 99:
+Original: Jung Sik Kong
+Detected: Jung Sik Kong
+Ground Truth: Jung Sik Kong
+
+Example 100:
+Original: Michael Hoenig
+Detected: Michael Hoenig
+Ground Truth: Michael Hoenig
+
+Metrics for 100 examples:
+Exact Match Accuracy: 0.7500
+Fuzzy Accuracy (threshold=90): 0.7600
+Fuzzy Accuracy (threshold=80): 0.7900
+Fuzzy Accuracy (threshold=70): 0.8100
+
+Analyzing prediction errors (similarity < 70%):
+
+Error Case 1 (similarity: 0%):
+Predicted : Mendel Brikman
+Expected  :
+
+Error Case 2 (similarity: 0%):
+Predicted :
+Expected  : Bằng Giang/Tú Nhi
+
+Error Case 3 (similarity: 0%):
+Predicted :
+Expected  : An Stepper
+
+Error Case 4 (similarity: 0%):
+Predicted :
+Expected  : NS (PERF BY KALI)
+
+Error Case 5 (similarity: 0%):
+Predicted :
+Expected  : Rundown Spaz/Rundown Choppaboy
+
+Error Case 6 (similarity: 0%):
+Predicted :
+Expected  : DJ PALEMBANG
+
+Error Case 7 (similarity: 0%):
+Predicted : Aaron D Sprinkle
+Expected  :
+
+Error Case 8 (similarity: 0%):
+Predicted :
+Expected  : Khúc Lan
+
+Error Case 9 (similarity: 0%):
+Predicted : Aleksandr Alekseevich Osipov
+Expected  :
+
+Error Case 10 (similarity: 0%):
+Predicted :
+Expected  : SUBZEROSWIZ/Yeat
+
+Error Case 11 (similarity: 0%):
+Predicted :
+Expected  : Auditory Music
+
+Error Case 12 (similarity: 0%):
+Predicted : Devin Kinoshita
+Expected  :
+
+Error Case 13 (similarity: 0%):
+Predicted : Bmi
+Expected  :
+
+Error Case 14 (similarity: 0%):
+Predicted : Jesus Raul Ortega Jr
+Expected  :
+
+Error Case 15 (similarity: 0%):
+Predicted : Jeff Moise Right
+Expected  :
+
+Error Case 16 (similarity: 53%):
+Predicted : Adam Pék/Cory James/Nick Sinna
+Expected  : Various Artists/Nick Sinna
+
+Error Case 17 (similarity: 65%):
+Predicted : Jordan Ancrum
+Expected  : Itsjaygocrazy/Jordan Ancrum
+
+Error Case 18 (similarity: 65%):
+Predicted : Lavel Jackson
+Expected  : Lavel Jackson/Demarcus Ford
+
+Error Case 19 (similarity: 67%):
+Predicted : Kenta Matsukuma
+Expected  : GO TO THE BEDS/Kenta Matsukuma
+
+Total errors found: 19
+
+Processed examples: 100
