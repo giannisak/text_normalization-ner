@@ -116,7 +116,7 @@ model = AutoModelForTokenClassification.from_pretrained("dslim/bert-base-NER")
 nlp = pipeline("ner", model=model, tokenizer=tokenizer)
 
 # Read CSV
-df = pd.read_csv('normalization_assesment_dataset_10k.csv')
+df = pd.read_csv('../normalization_assesment_dataset_10k.csv')
 
 # Process 100 examples
 print("\nTesting with 100 examples:")
