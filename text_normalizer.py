@@ -6,7 +6,7 @@ It uses Named Entity Recognition (NER) and applies various normalization rules
 to clean and standardize the text.
 
 Performance Metrics:
-- Processing time: 405.25 seconds
+- Processing time: 293.33 seconds
 - Exact Match Accuracy: 0.6716
 - Fuzzy Match Accuracy (90%): 0.7074
 - Fuzzy Match Accuracy (80%): 0.7432
